@@ -7,3 +7,5 @@ it is client server architecture first start the server and next start the clien
 ## 2 simple calculator
 
 it shows mvc architecture ==== model-the claculator, view the UI , control interacts the view and model. javas modification made
+
+## 3 Added Here
